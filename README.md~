@@ -1,3 +1,3 @@
-#ACTIVITY 2
+## Feature Update Branch 
 
-This activity helps us test our capability and knowledge in handling GIT.
+This section was added in the feature-update branch.
